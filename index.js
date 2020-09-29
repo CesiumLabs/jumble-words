@@ -40,8 +40,8 @@ class JumbleWords {
             let s = this.randomize(w[0], true);
 
             arr.push({
-                word: w,
-                jumble: s === w ? this.randomize(w, true) : s
+                word: w[0],
+                jumble: s === w ? this.randomize(w[0], true) : s
             });
         }
 
