@@ -1,0 +1,29 @@
+{
+  "name": "jumble-words",
+  "version": "1.0.0",
+  "description": "Jumble words generator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "cd test && node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Snowflake107/jumble-words.git"
+  },
+  "keywords": [
+    "jumble-words",
+    "words-shuffle",
+    "shuffle",
+    "random",
+    "random-words",
+    "words-generator",
+    "generate-words",
+    "generate"
+  ],
+  "author": "Snowflake107",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Snowflake107/jumble-words/issues"
+  },
+  "homepage": "https://github.com/Snowflake107/jumble-words#readme"
+}
