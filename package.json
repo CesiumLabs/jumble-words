@@ -1,6 +1,6 @@
 {
   "name": "jumble-words",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Jumble words generator.",
   "main": "index.js",
   "scripts": {
